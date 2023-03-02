@@ -68,4 +68,5 @@ https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/mai
 ## Data Analysis and Visualization:
 https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/Exploratory%20Data%20Analysis.ipynb
 
-
+Check out link to understand categorisation of fibres into natural, artificial and synthetic :
+https://www.swicofil.com/commerce/products
