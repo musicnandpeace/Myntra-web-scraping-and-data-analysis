@@ -66,7 +66,9 @@ Data Cleaning: https://github.com/musicnandpeace/Myntra-web-scraping-and-data-an
 https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/Data%20Preprocessing.ipynb
 
 ## Data Analysis and Visualization:
-https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/Exploratory%20Data%20Analysis.ipynb
+Find the jupyter notebook here: https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/Exploratory%20Data%20Analysis.ipynb
+(Plotly graphs may not get rendered in github environment, so check out the inference image analysis here https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/tree/main/inference%20images-analysis)
 
+## Reference 
 Check out link to understand categorisation of fibres into natural, artificial and synthetic :
 https://www.swicofil.com/commerce/products
