@@ -67,6 +67,7 @@ https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/mai
 
 ## Data Analysis and Visualization:
 Find the jupyter notebook here: https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/Exploratory%20Data%20Analysis.ipynb
+
 (Plotly graphs may not get rendered in github environment, so check out the inference image analysis here https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/tree/main/inference%20images-analysis)
 
 ## Reference 
