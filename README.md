@@ -81,7 +81,7 @@ Similarly, top Women's Western brands, Mango, H&M (Western brands), Tokyo talkie
 
 ![fibre_distribution](https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/inference%20images-analysis/Screenshot%202023-03-03%20at%2011.59.37%20AM.png)
 
-Polyester, Acrylic, Nylon are among the most widely used synthetic fibres in the western wear for both men and women, whereas natural fibres appear the most in Men's clothing overall.
+Polyester, Acrylic, elastane, poly_fibre_blend are among the most widely used synthetic fibres in the western wear for both men and women, whereas natural fibres appear the most in Men's clothing overall.
 
 ## Reference 
 Check out link to understand categorisation of fibres into natural, artificial and synthetic :
