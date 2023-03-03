@@ -70,6 +70,19 @@ Find the jupyter notebook here: https://github.com/musicnandpeace/Myntra-web-scr
 
 (Plotly graphs may not get rendered in github environment, so check out the inference image analysis here https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/tree/main/inference%20images-analysis)
 
+Here are a few inferences drawn:
+
+![top 10 brands](https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/inference%20images-analysis/Screenshot%202023-03-03%20at%2011.17.45%20AM.png)
+
+It appears that top Men's Ethnic brands still have higher natural fibre compositions whereas Women's Ethnic brands are dominated by artificial and synthetic fabrics only.
+
+Similarly, top Women's Western brands, Mango, H&M (Western brands), Tokyo talkies and Sassfaras also push synthetic clothing items and occurence of natural fibres is relatively low.
+
+
+![fibre_distribution](https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/inference%20images-analysis/Screenshot%202023-03-03%20at%2011.59.37%20AM.png)
+
+Polyester, Acrylic, Nylon are among the most widely used synthetic fibres in the western wear for both men and women, whereas natural fibres appear the most in Men's clothing overall.
+
 ## Reference 
 Check out link to understand categorisation of fibres into natural, artificial and synthetic :
 https://www.swicofil.com/commerce/products
