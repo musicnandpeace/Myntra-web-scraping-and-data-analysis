@@ -13,7 +13,7 @@ As an initiative, this projects attempts at reflecting the most popular trends o
 
 
 ![Production energy by fibres](https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/images/Screenshot%202023-03-02%20at%2010.31.26%20PM.png)
-source: https://oecotextiles.blog/2009/06/16/what-is-the-energy-profile-of-the-textile-industry/
+#### source: https://oecotextiles.blog/2009/06/16/what-is-the-energy-profile-of-the-textile-industry/
 ---
 ## Objective: 
 
