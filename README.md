@@ -89,6 +89,7 @@ Polyester, Acrylic, elastane, poly_fibre_blend are among the most widely used sy
 Women's western dresses and trousers contain dangerously high amounts of synthetic fibres.
 
 Here's what the correlation looks like:
+
 ![avg rating count](https://github.com/musicnandpeace/Myntra-web-scraping-and-data-analysis/blob/main/inference%20images-analysis/avg%20rating%20price%20and%20counts.png)
 
 ## Reference 
